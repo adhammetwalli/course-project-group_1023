@@ -22,7 +22,7 @@ The dataset we have chosen is provided by the Australian Government’s Bureau o
 
 - Person 1: Takumi Sugihara I'm a third year BS Economics student. 
 - Person 2: Albert Ugut I'm a second year Computer Science student.
-- Person 3: 
+- Person 3: Adham Metwalli I'm a Third year Management Student minoring in CompSci
 
 ## References
 Distribution Site: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
